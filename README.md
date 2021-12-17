@@ -1,0 +1,1 @@
+FoodFox adalah website pemesan makanan secara online, website ini tidak hanya digunakan untuk memesan makanan tetapi juga digunakan sebagai platform untuk pemasaran restoran/rumah makan yang ada disana. 
